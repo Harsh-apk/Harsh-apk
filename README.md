@@ -1,6 +1,6 @@
 I am Harsh Kumar ~ A second year B.Tech student in Metallurgy and Materials Engineering at MNIT Jaipur.
 
-Familiar with Python, C++, Kotlin, Javascript, Golang for backend with Fiber, MongoDB, React Js and React Native
+I'm familiar with Python, C++, Kotlin, Javascript, Golang for backend with Fiber, MongoDB, React Js, Next JS, React Native, Tailwind CSS and Android Dev with Kotlin and Compose.
 
 I love to build new things and am a fast learner. I don't memorise solutions rather I solve the problems and make my own solutions :)
 
