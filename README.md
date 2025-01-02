@@ -1,4 +1,4 @@
-I am Harsh Kumar ~ A second year B.Tech student in Metallurgy and Materials Engineering at MNIT Jaipur.
+I am Harsh Kumar ~ A third year B.Tech student in Metallurgy and Materials Engineering at MNIT Jaipur.
 
 I'm familiar with Python, C++, Kotlin, Javascript, Golang for backend with Fiber, MongoDB, React Js, Next JS, React Native, Tailwind CSS and Android Dev with Kotlin and Compose.
 
